@@ -20,5 +20,4 @@
 
 ### 🌐 Connect with Me  
 - 📧 Email: [mugy2869@gmail.com](mailto:mugy2869@gmail.com)  
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/username/)  
 - 📂 Portfolio: [GitHub Portfolio](https://github.com/Hansae1996)
