@@ -1,5 +1,5 @@
 #
-**Backend Developer** | **Problem Solver** | **Scalable System Architect**
+**Backend Developer**
 
 ---
 
