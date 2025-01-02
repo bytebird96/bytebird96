@@ -21,3 +21,8 @@
 ### 🌐 Connect with Me  
 - 📧 Email: [mugy2869@gmail.com](mailto:mugy2869@gmail.com)  
 - 📂 Portfolio: [GitHub Portfolio](https://github.com/Hansae1996)
+
+### 작업물
+https://github.com/bytebird96/bata-shop-backEnd.git
+https://github.com/bytebird96/bata-shop-frontend.git
+https://github.com/bytebird96/kafkaMessage.git
